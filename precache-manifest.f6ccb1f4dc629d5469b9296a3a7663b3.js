@@ -21,7 +21,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "cfea4090796865c0eede8e60acfae80e",
-    "url": "./static/media/sonu.cfea4090.jpg"
+    "url": "static/media/sonu.cfea4090.jpg"
   },
   {
     "revision": "479f09d61b9c4d363b91f6fc5719fe9b",
